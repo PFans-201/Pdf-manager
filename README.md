@@ -26,4 +26,4 @@ Add additional notes about how to deploy this on a live system.
 
 * Flask - web framework
 * Spacy - Natural Language Processing library
-* Rasa  - trained chat bot
+* Rasa  - Open source machine learning framework to automate text and voice-based conversations: NLU, dialogue management, connect to Slack, Facebook, and more - Create chatbots and voice assistants
