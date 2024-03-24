@@ -10,11 +10,7 @@ DocuMentor.ai is an innovative application designed to empower students by strea
 - **User-Friendly Interface**: Easy-to-use web interface for seamless interaction.
 - **Cloud Integration**: Support for document upload from local storage and cloud platforms like Google Drive and OneDrive.
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-### Prerequisites
+## Getting Started 
 
 What things you need to install the software and how to install them:
 <div>
@@ -22,11 +18,12 @@ What things you need to install the software and how to install them:
     <pre><code>pip install flask oauth2client google-api-python-client onedrivesdk PyPDF2 python-docx spacy werkzeug pytesseract Pillow requests</code></pre>
 </div>
 
-# Deployment
+## Deployment
 
 Add additional notes about how to deploy this on a live system.
 
 ## Built With
 
-* Flask - The web framework used
+* Flask - web framework
 * Spacy - Natural Language Processing library
+* Rasa  - trained chat bot
